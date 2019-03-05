@@ -1,0 +1,8 @@
+C:\ProgrammingPractice\CSVmapping\MapCSVtoEntities\MapCSVtoEntities\bin\Debug\MapCSVtoEntities.dll
+C:\ProgrammingPractice\CSVmapping\MapCSVtoEntities\MapCSVtoEntities\bin\Debug\MapCSVtoEntities.pdb
+C:\ProgrammingPractice\CSVmapping\MapCSVtoEntities\MapCSVtoEntities\obj\Debug\MapCSVtoEntities.csprojResolveAssemblyReference.cache
+C:\ProgrammingPractice\CSVmapping\MapCSVtoEntities\MapCSVtoEntities\obj\Debug\MapCSVtoEntities.csproj.CoreCompileInputs.cache
+C:\ProgrammingPractice\CSVmapping\MapCSVtoEntities\MapCSVtoEntities\obj\Debug\MapCSVtoEntities.dll
+C:\ProgrammingPractice\CSVmapping\MapCSVtoEntities\MapCSVtoEntities\obj\Debug\MapCSVtoEntities.pdb
+C:\ProgrammingPractice\CreateEntitiesFromCSV\CreateEntitiesFromCSV\obj\Debug\MapCSVtoEntities.dll
+C:\ProgrammingPractice\CreateEntitiesFromCSV\CreateEntitiesFromCSV\obj\Debug\MapCSVtoEntities.pdb
